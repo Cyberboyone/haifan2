@@ -52,7 +52,7 @@ class IslamicAudioApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Haifan Shu'abul Iman 2',
+      title: "Haifan Shu'abul Iman 2",
       debugShowCheckedModeBanner: false,
       locale: const Locale('en', 'GB'),
       supportedLocales: const [Locale('en', 'GB')],
